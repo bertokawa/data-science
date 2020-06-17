@@ -5,3 +5,6 @@
 # Data Science
 
 Começando desenvolvimentos de projetos nessa area.
+
+Primeiro Projeto:
+Analises incial de dados do AirBnB da cidade de Tóquio(Japão)
