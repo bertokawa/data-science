@@ -4,7 +4,8 @@
 
 # Data Science
 
-Começando desenvolvimentos de projetos nessa area.
+Let's see some projects in Data Science 
 
-Primeiro Projeto:
-Analises incial de dados do AirBnB da cidade de Tóquio(Japão)
+## Projects:
+
+* Analysing data from Airbnb about Tokyo: https://bit.ly/3g8sIKy
