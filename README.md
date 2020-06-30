@@ -9,3 +9,6 @@ Let's see some projects in Data Science
 ## Projects:
 
 * Analysing data from Airbnb about Tokyo: https://bit.ly/3g8sIKy
+
+## About me:
+Electronic engineer with some knowlegde in IoT and now learning Data Science.
